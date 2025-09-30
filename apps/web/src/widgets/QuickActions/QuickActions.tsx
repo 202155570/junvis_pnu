@@ -34,6 +34,14 @@ export function QuickActions() {
       icon: '⚙️',
       href: '/settings',
       color: 'gray'
+    },
+    {
+      id: '5',
+      title: '라이프로그',
+      description: '타임라인 보기',
+      icon: '🗓️',
+      href: '/lifelog',
+      color: 'purple'
     }
   ]
 
